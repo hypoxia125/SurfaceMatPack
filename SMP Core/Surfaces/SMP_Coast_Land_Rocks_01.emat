@@ -1,0 +1,6 @@
+TerrainMaterial {
+ BCRMap "{14EC1153CC7AF42F}Surfaces/Data/SMP_Coast_Land_Rocks_01_BCR.edds"
+ NHOMap "{33DB5A17CF3CB238}Surfaces/Data/SMP_Coast_Land_Rocks_01_NHO.edds"
+ BCRMiddleMap "{C3002B12AA1DE974}Surfaces/Data/SMP_Coast_Land_Rocks_01_Middle_BCR.edds"
+ NHOMiddleMap "{E4376056A95BAF63}Surfaces/Data/SMP_Coast_Land_Rocks_01_Middle_NHO.edds"
+}
