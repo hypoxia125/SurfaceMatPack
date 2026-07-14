@@ -1,0 +1,6 @@
+TerrainMaterial {
+ BCRMap "{9C02B58C12D2C231}Surfaces/Data/SMP_Rock_Boulder_Dry_01_BCR.edds"
+ NHOMap "{BB35FEC811948426}Surfaces/Data/SMP_Rock_Boulder_Dry_01_NHO.edds"
+ BCRMiddleMap "{397ACD4975CD9C20}Surfaces/Data/SMP_Rock_Boulder_Dry_01_Middle_BCR.edds"
+ NHOMiddleMap "{1E4D860D768BDA37}Surfaces/Data/SMP_Rock_Boulder_Dry_01_Middle_NHO.edds"
+}

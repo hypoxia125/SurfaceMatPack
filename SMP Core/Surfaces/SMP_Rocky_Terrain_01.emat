@@ -1,0 +1,6 @@
+TerrainMaterial {
+ BCRMap "{0B2A83D77185AEDB}Surfaces/Data/SMP_Rocky_Terrain_01_BCR.edds"
+ NHOMap "{2C1DC89372C3E8CC}Surfaces/Data/SMP_Rocky_Terrain_01_NHO.edds"
+ BCRMiddleMap "{228670C5DDB93B03}Surfaces/Data/SMP_Rocky_Terrain_01_Middle_BCR.edds"
+ NHOMiddleMap "{05B13B81DEFF7D14}Surfaces/Data/SMP_Rocky_Terrain_01_Middle_NHO.edds"
+}

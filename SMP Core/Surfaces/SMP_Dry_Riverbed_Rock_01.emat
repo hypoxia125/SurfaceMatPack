@@ -1,0 +1,6 @@
+TerrainMaterial {
+ BCRMap "{7419839B788747D0}Surfaces/Data/SMP_Dry_Riverbed_Rock_01_BCR.edds"
+ NHOMap "{532EC8DF7BC101C7}Surfaces/Data/SMP_Dry_Riverbed_Rock_01_NHO.edds"
+ BCRMiddleMap "{BF3B9C95501091F2}Surfaces/Data/SMP_Dry_Riverbed_Rock_01_Middle_BCR.edds"
+ NHOMiddleMap "{980CD7D15356D7E5}Surfaces/Data/SMP_Dry_Riverbed_Rock_01_Middle_NHO.edds"
+}

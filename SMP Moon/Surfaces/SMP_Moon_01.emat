@@ -1,0 +1,6 @@
+TerrainMaterial {
+ BCRMap "{D6E2CCC9423F9D9D}Surfaces/Data/SMP_Moon_01_BCR.edds"
+ NHOMap "{F1D5878D4179DB8A}Surfaces/Data/SMP_Moon_01_NHO.edds"
+ BCRMiddleMap "{758B4A1BC13DA829}Surfaces/Data/SMP_Moon_01_Middle_BCR.edds"
+ NHOMiddleMap "{52BC015FC27BEE3E}Surfaces/Data/SMP_Moon_01_Middle_NHO.edds"
+}

@@ -1,0 +1,6 @@
+TerrainMaterial {
+ BCRMap "{34BFA86C70A3FFF9}Surfaces/Data/SMP_Tiger_Rock_01_BCR.edds"
+ NHOMap "{1388E32873E5B9EE}Surfaces/Data/SMP_Tiger_Rock_01_NHO.edds"
+ BCRMiddleMap "{86AAC9163256E920}Surfaces/Data/SMP_Tiger_Rock_01_Middle_BCR.edds"
+ NHOMiddleMap "{A19D82523110AF37}Surfaces/Data/SMP_Tiger_Rock_01_Middle_NHO.edds"
+}

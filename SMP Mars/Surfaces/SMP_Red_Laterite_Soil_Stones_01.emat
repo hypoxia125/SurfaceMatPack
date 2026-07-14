@@ -1,0 +1,6 @@
+TerrainMaterial {
+ BCRMap "{68BE23EF7347420C}Surfaces/Data/SMP_Red_Laterite_Soil_Stones_01_BCR.edds"
+ NHOMap "{4F8968AB7001041B}Surfaces/Data/SMP_Red_Laterite_Soil_Stones_01_NHO.edds"
+ BCRMiddleMap "{27FCB61761EECF3B}Surfaces/Data/SMP_Red_Laterite_Soil_Stones_01_Middle_BCR.edds"
+ NHOMiddleMap "{00CBFD5362A8892C}Surfaces/Data/SMP_Red_Laterite_Soil_Stones_01_Middle_NHO.edds"
+}

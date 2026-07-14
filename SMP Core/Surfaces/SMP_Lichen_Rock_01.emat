@@ -1,0 +1,6 @@
+TerrainMaterial {
+ BCRMap "{FB5BE2784DE8C51B}Surfaces/Data/SMP_Lichen_Rock_01_BCR.edds"
+ NHOMap "{DC6CA93C4EAE830C}Surfaces/Data/SMP_Lichen_Rock_01_NHO.edds"
+ BCRMiddleMap "{356CB8CDE038D6DA}Surfaces/Data/SMP_Lichen_Rock_01_Middle_BCR.edds"
+ NHOMiddleMap "{125BF389E37E90CD}Surfaces/Data/SMP_Lichen_Rock_01_Middle_NHO.edds"
+}

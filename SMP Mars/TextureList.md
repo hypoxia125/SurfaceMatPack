@@ -1,0 +1,6 @@
+[SMP_Gravel_Road_01](https://polyhaven.com/a/gravel_road)
+[SMP_Red_Laterite_Soil_Stones_01](https://polyhaven.com/a/red_laterite_soil_stones)
+[SMP_Rock_06](https://polyhaven.com/a/rock_06)
+[SMP_Rock_Face_01](https://polyhaven.com/a/rock_face)
+[SMP_Terrain_Red_01](https://polyhaven.com/a/terrain_red_01)
+[SMP_Tiger_Rock_01](https://polyhaven.com/a/tiger_rock)

@@ -1,0 +1,6 @@
+TerrainMaterial {
+ BCRMap "{7565D54419DA702B}Surfaces/Data/SMP_Rock_Pitted_Mossy_01_BCR.edds"
+ NHOMap "{52529E001A9C363C}Surfaces/Data/SMP_Rock_Pitted_Mossy_01_NHO.edds"
+ BCRMiddleMap "{63A8026175168033}Surfaces/Data/SMP_Rock_Pitted_Mossy_01_Middle_BCR.edds"
+ NHOMiddleMap "{449F49257650C624}Surfaces/Data/SMP_Rock_Pitted_Mossy_01_Middle_NHO.edds"
+}

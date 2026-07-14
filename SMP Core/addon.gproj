@@ -1,0 +1,8 @@
+GameProject {
+ ID "SMPCore"
+ GUID "69DB7106FC452E1D"
+ TITLE "SMP Core"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

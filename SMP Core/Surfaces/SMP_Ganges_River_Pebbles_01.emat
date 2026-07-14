@@ -1,0 +1,6 @@
+TerrainMaterial {
+ BCRMap "{9594A72B092BAC86}Surfaces/Data/SMP_Ganges_River_Pebbles_01_BCR.edds"
+ NHOMap "{B2A3EC6F0A6DEA91}Surfaces/Data/SMP_Ganges_River_Pebbles_01_NHO.edds"
+ BCRMiddleMap "{B5EED817F1833E69}Surfaces/Data/SMP_Ganges_River_Pebbles_01_Middle_BCR.edds"
+ NHOMiddleMap "{92D99353F2C5787E}Surfaces/Data/SMP_Ganges_River_Pebbles_01_Middle_NHO.edds"
+}

@@ -1,0 +1,5 @@
+[SMP_Snow_01](https://polyhaven.com/a/snow_01)
+[SMP_Snow_02](https://polyhaven.com/a/snow_02)
+[SMP_Snow_03](https://polyhaven.com/a/snow_03)
+[SMP_Snow_04](https://polyhaven.com/a/snow_04)
+[SMP_Snow_05](https://polyhaven.com/a/snow_05)

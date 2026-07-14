@@ -1,0 +1,6 @@
+TerrainMaterial {
+ BCRMap "{07757AC40C01AD6C}Surfaces/Data/SMP_Snow_05_BCR.edds"
+ NHOMap "{204231800F47EB7B}Surfaces/Data/SMP_Snow_05_NHO.edds"
+ BCRMiddleMap "{890EA00F5080D184}Surfaces/Data/SMP_Snow_05_Middle_BCR.edds"
+ NHOMiddleMap "{AE39EB4B53C69793}Surfaces/Data/SMP_Snow_05_Middle_NHO.edds"
+}

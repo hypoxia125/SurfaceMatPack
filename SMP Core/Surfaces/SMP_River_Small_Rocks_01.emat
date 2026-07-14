@@ -1,0 +1,6 @@
+TerrainMaterial {
+ BCRMap "{5D4AB52750D9D184}Surfaces/Data/SMP_River_Small_Rocks_01_BCR.edds"
+ NHOMap "{7A7DFE63539F9793}Surfaces/Data/SMP_River_Small_Rocks_01_NHO.edds"
+ BCRMiddleMap "{CC5F6AEF2B75ECAF}Surfaces/Data/SMP_River_Small_Rocks_01_Middle_BCR.edds"
+ NHOMiddleMap "{EB6821AB2833AAB8}Surfaces/Data/SMP_River_Small_Rocks_01_Middle_NHO.edds"
+}
