@@ -1,0 +1,6 @@
+TerrainMaterial {
+ BCRMap "{6D44A19EAA07CBAF}Surfaces/Data/SMP_Dry_Decay_Leaves_01_BCR.edds"
+ NHOMap "{4A73EADAA9418DB8}Surfaces/Data/SMP_Dry_Decay_Leaves_01_NHO.edds"
+ BCRMiddleMap "{CC39C098A8589643}Surfaces/Data/SMP_Dry_Decay_Leaves_01_Middle_BCR.edds"
+ NHOMiddleMap "{EB0E8BDCAB1ED054}Surfaces/Data/SMP_Dry_Decay_Leaves_01_Middle_NHO.edds"
+}

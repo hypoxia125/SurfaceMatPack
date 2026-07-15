@@ -1,0 +1,6 @@
+TerrainMaterial {
+ BCRMap "{EBD886B3B125FD98}Surfaces/Data/SMP_Floor_Pebbles_01_BCR.edds"
+ NHOMap "{CCEFCDF7B263BB8F}Surfaces/Data/SMP_Floor_Pebbles_01_NHO.edds"
+ BCRMiddleMap "{0A4E6722578F8DE0}Surfaces/Data/SMP_Floor_Pebbles_01_Middle_BCR.edds"
+ NHOMiddleMap "{2D792C6654C9CBF7}Surfaces/Data/SMP_Floor_Pebbles_01_Middle_NHO.edds"
+}

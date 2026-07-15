@@ -1,0 +1,6 @@
+TerrainMaterial {
+ BCRMap "{CB5839C71FFB3A46}Surfaces/Data/SMP_Forest_Sand_01_BCR.edds"
+ NHOMap "{EC6F72831CBD7C51}Surfaces/Data/SMP_Forest_Sand_01_NHO.edds"
+ BCRMiddleMap "{3531C3F90C04C0C8}Surfaces/Data/SMP_Forest_Sand_01_Middle_BCR.edds"
+ NHOMiddleMap "{120688BD0F4286DF}Surfaces/Data/SMP_Forest_Sand_01_Middle_NHO.edds"
+}
